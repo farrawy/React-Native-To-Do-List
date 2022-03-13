@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "todoList",
-    "slug": "todoList",
+    "name": "To Do List",
+    "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My First To Do List App in React Native",
+    "githubUrl": "https://github.com/farrawy/React-Native-To-Do-List.git"
   }
 }
